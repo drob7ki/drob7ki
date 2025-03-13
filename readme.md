@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&size=30&pause=1000&color=8B0000D7&background=0C0000&center=true&vCenter=true&width=435&separator=%3C&lines=%E2%B8%9D%E2%B8%9D+Greetings!+;P)](https://git.io/typing-svg)
 
 ##### Hello! (^^ゞ I currently study strategic planning and analysis systems developmentat at Senai, in Brazil.
+
+
+
 <p align="left">
     <a href="https://www.linkedin.com/in/j%C3%BAlia-leme-574443352/">
         <img 
