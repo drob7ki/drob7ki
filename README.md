@@ -55,11 +55,9 @@ I'm **Júlia**, a **Systems Development** student from **São Paulo, Brazil**.
   Thanks for stopping by! ⭐
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/drob7ki/drob7ki/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
