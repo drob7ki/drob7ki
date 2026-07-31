@@ -1,182 +1,54 @@
-<div align="center">
-
-# 👾 PLAYER LOADED
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3500&pause=1200&color=BB86FC&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Loading+Player...;Player+Found!;Hi%2C+I'm+Julia!;Future+Web+Developer.;Future+UI%2FUX+Designer.;Future+Game+Developer."/>
 
----
-
-### 🎮 PLAYER CARD
-
-```text
-┌────────────────────────────────────┐
-│ NAME      │ Júlia                  │
-│ CLASS     │ Systems Developer      │
-│ LOCATION  │ São Paulo, Brazil      │
-│ LEVEL     │ ★☆☆☆☆                  │
-│ STATUS    │ Learning...            │
-└────────────────────────────────────┘
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-</div>
-
----
-
-# 🌸 About Me
-
-```javascript
-const julia = {
-
-    education: "Systems Development @ SENAI-SP",
-
-    currentlyLearning: [
-        "JavaScript",
-        "PHP",
-        "UI/UX Design"
-    ],
-
-    interests: [
-        "Web Development",
-        "Game Development",
-        "Game Design"
-    ],
-
-    goal: "Find my first internship 🚀"
-}
-```
-
-I'm passionate about creating websites that are both beautiful and functional.
-
-I love combining **code** and **design** to build interactive experiences, and I'm constantly looking for opportunities to learn something new.
-
-My long-term dream is to become both a **Web Developer** and a **Game Developer**.
-
----
-
-# ⚔️ SKILL TREE
-
-### Front-End
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-</p>
-
-### Back-End
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-</p>
-
-### Design
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-<img height="48" src="https://cdn.simpleicons.org/canva/00C4CC"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
----
-
-# 🎒 INVENTORY
-
-| Item | Description |
-|------|-------------|
-| ☕ Coffee | +10 Focus |
-| 💻 VS Code | Main weapon |
-| 🎨 Figma | Interface crafting |
-| 🐙 GitHub | Version control |
-| 🌐 HTML/CSS | Structure & Style |
-| ⚡ JavaScript | Interactivity |
-| 🐘 PHP | Backend adventures |
-
----
-
-# 🗺️ CURRENT QUESTS
-
-⬜ Build more projects
-
-🟩 Learn more JavaScript
-
-🟩 Improve UI/UX skills
-
-⬜ Learn React
-
-⬜ Publish my portfolio
-
-⬜ Start developing games
-
----
-
-# 🏆 ACHIEVEMENTS
-
-🏅 First HTML project
-
-🏅 First CSS project
-
-🏅 First JavaScript application
-
-🏅 First PHP project
-
-🏅 Learning Git & GitHub
-
-🏅 Studying Agile (Scrum)
-
----
-
-# 📊 PLAYER STATS
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Hi%2C+I'm+J%C3%BAlia+%F0%9F%91%8B;Systems+Development+Student;Future+Web+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="(https://www.linkedin.com/in/j%C3%BAlia-leme-574443352/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🔥 COMBO
+## 👋 About Me
+
+I'm **Júlia**, a **Systems Development** student from **São Paulo, Brazil**.
+
+💜 Passionate about Web Development, UI/UX Design, and Game Development.
+
+🚀 Currently looking for an internship where I can learn, grow, and contribute to real-world projects.
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,git,github,vscode" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+- JavaScript
+- PHP
+- UI/UX Design
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
-# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
+  Thanks for stopping by! ⭐
 </p>
-
----
-
-<div align="center">
-
-## Thanks for visiting! 🎮
-
-*"Every expert was once a beginner pressing Start."*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
-
-</div>
