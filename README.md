@@ -39,7 +39,11 @@ I'm **Júlia**, a **Systems Development** student from **São Paulo, Brazil**.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=drob7ki&show_icons=true&theme=tokyonight" />
+<img
+  height="180em"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=drob7ki&show_icons=true&theme=tokyonight"
+/>
+
 ---
 
 <p align="center">
