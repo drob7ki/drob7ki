@@ -56,9 +56,10 @@ I'm **Júlia**, a **Systems Development** student from **São Paulo, Brazil**.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com{{ github.repository_owner }}/${{ github.event.repository.name }}/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com{{ github.repository_owner }}/${{ github.event.repository.name }}/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://githubusercontent.com{{ github.repository_owner }}/${{ github.event.repository.name }}/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="github-contribution-grid-snake.svg">
 </picture>
+
 
 
