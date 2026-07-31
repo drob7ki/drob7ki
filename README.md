@@ -14,7 +14,7 @@
 
 I'm **Júlia**, a **Systems Development** student from **São Paulo, Brazil**.
 
-💜 Passionate about Web Development, UI/UX Design, and Game Development.
+👾 Passionate about Web Development, UI/UX Design, and Game Development.
 
 🚀 Currently looking for an internship where I can learn, grow, and contribute to real-world projects.
 
