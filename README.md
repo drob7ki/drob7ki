@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm **Júlia**, a **Systems Development** student from **São Paulo, Brazil**.
 
